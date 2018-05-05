@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 const fs = require('fs');
 
 var fetchNotes = () => {
